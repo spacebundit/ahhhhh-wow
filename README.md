@@ -6,3 +6,4 @@ Text that is not a quote
 git add
 git commit
 ```
+<sup> </sup>	None	<sup>This is a superscript text</sup>
